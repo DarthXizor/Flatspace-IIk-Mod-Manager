@@ -1,0 +1,16 @@
+text=[ITEM GENERIC AMMO]
+id=5000
+genuscode=6
+onsaleinbaseprobability=10
+onsaleinpolicebaseprobability=0
+onsaleinpiratebaseprobability=10
+boolintegral=false
+boolmineral=false
+boolgenerateforai=false
+boolgenerateforplayer=false
+boolispet=false
+mass=1
+cost=100
+guildrank=0
+guildtype=0
+maxammo=0
