@@ -186,6 +186,9 @@ Both operations restore Items0.txt and Items1.txt to their pre-mod state.
 - Does not modify the game executable.
 - Does not download or install the game.
 
+## AI Disclaimer
+- AI was used to create this project. The AI was guided by me a human, that is very lazy, too lazy to manually code this project by hand blame any and all errors on me, as they would have been there if AI was not used. I am no genius wonder wiz, just a lazy potato.
+
 ## Safety
 
 - Back up Data/Items0.txt, Data/Items1.txt, and the Items/ folder before creating your first mod.
