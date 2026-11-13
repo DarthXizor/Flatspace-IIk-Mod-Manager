@@ -1,0 +1,17 @@
+text=[ITEM GENERIC ARMOUR]
+id=5000
+genuscode=3
+onsaleinbaseprobability=10
+onsaleinpolicebaseprobability=10
+onsaleinpiratebaseprobability=10
+boolintegral=false
+boolmineral=false
+boolgenerateforai=true
+boolgenerateforplayer=false
+boolispet=false
+mass=1
+cost=100
+guildrank=0
+guildtype=0
+maxammo=0
+armourpoints=10
